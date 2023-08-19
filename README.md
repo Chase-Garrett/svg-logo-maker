@@ -26,4 +26,4 @@
   ## License
   This project is licensed under the MIT license.
   ## Questions
-  If you have any questions, please contact me at chasegarrett@tutanota.com. You can also visit my [GitHub](github.com/Chase-Garrett) for more of my work.
+  If you have any questions, please contact me at chasegarrett@tutanota.com. You can also visit my [GitHub](https://github.com/Chase-Garrett) for more of my work.
