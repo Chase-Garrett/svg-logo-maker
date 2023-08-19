@@ -1,5 +1,5 @@
 // import create document function
-const { createDocument } = require('../lib/document');
+const { createDocument } = require('../lib/document.js');
 
 // test create document function
 describe('createDocument', () => {

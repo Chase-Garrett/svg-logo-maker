@@ -1,5 +1,5 @@
 // import shape classes
-const Shapes = require('../lib/shapes');
+const Shapes = require('../lib/shapes.js');
 
 // test shapes class
 describe('Shapes', () => {

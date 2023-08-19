@@ -1,5 +1,5 @@
 // import triangle class
-const Triangle = require('../lib/triangle');
+const Triangle = require('../lib/shapes.js');
 
 // test triangle class
 describe('Triangle', () => {
