@@ -1,5 +1,5 @@
 // import cicrle class
-const Circle = require('../lib/shapes.js');
+const Circle = require('../lib/circle.js');
 
 // test circle class
 describe('Circle', () => {

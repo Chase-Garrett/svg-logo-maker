@@ -1,5 +1,5 @@
 // import square class
-const Square = require('../lib/shapes.js');
+const Square = require('../lib/square.js');
 
 // test square class
 describe('Square', () => {
