@@ -22,7 +22,7 @@
   ## Credits
   This project makes use of node.js, npm, inquirer, and the jest testing framework.
   ## Tests
-  N/A
+  All tests are in the tests directory. Each test case has its own file named after the class or function that is tested. Tests can be run with the command "npm test" from the terminal.
   ## License
   This project is licensed under the MIT license.
   ## Questions
