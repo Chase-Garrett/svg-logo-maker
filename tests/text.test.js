@@ -1,5 +1,5 @@
 // import text class
-const Text = require('../lib/text');
+const Text = require('../lib/text.js');
 
 // test text class
 describe('Text', () => {

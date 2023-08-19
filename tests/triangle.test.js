@@ -1,10 +1,10 @@
 // import triangle class
-const Triangle = require('../lib/shapes/triangle');
+const Triangle = require('../lib/triangle.js');
 
 // test triangle class
 describe('Triangle', () => {
     test('should return a triangle svg element', () => {
         const triangle = new Triangle('green').render();
-        expect(triangle).toEqual('<polygon points="150,20 220,180 80,180" fill="green" />');
+        expect(triangle).toEqual('<polygon points="150,20 220,180 80,180" fill="green"/>');
     });
 });

@@ -1,11 +1,11 @@
 // import shape classes
-const Shapes = require('../lib/shapes');
+const Shapes = require('../lib/shapes.js');
 
 // test shapes class
 describe('Shapes', () => {
-    test('should throw an error is render() is called', () => {
-        const shapes = new Shapes('yellow').render();
+    test('should throw an error when render() is called', () => {
+        const shapes = new Shapes('yellow');
         const err = new Error('Child class must implement a render() method.');
-        expect(shapes.render).toThrow(err);
+        expect(() => shapes.render()).toThrow(err);
     });
 });
