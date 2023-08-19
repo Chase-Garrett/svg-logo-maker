@@ -16,7 +16,7 @@
   -[Questions](#questions)
   
   ## Installation
-  N/A
+  Clone the repository, once in the directory run "npm i to install the dependencies.
   ## Usage
   N/A
   ## Credits
